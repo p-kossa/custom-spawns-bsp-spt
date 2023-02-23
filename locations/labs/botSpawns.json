@@ -253,7 +253,7 @@
           "Supports": null,
           "TriggerId": "",
           "TriggerName": "",
-          "Delay": 1500,
+          "Delay": 1800,
           "RandomTimeSpawn": false
       },
       {
@@ -516,13 +516,13 @@
       },
       {
           "BossName": "pmcBot",
-          "BossChance": 100,
+          "BossChance": 90,
           "BossZone": "BotZoneFloor1",
           "BossPlayer": false,
           "BossDifficult": "normal",
           "BossEscortType": "pmcBot",
           "BossEscortDifficult": "normal",
-          "BossEscortAmount": "1,1,1,2,2,2,2,2",
+          "BossEscortAmount": "1,1,1,2,2,2,2,2,3",
           "Time": 60,
           "Supports": null,
           "TriggerId": "",
@@ -532,7 +532,7 @@
       },
       {
           "BossName": "pmcBot",
-          "BossChance": 35,
+          "BossChance": 60,
           "BossZone": "BotZoneFloor2",
           "BossPlayer": false,
           "BossDifficult": "normal",
@@ -548,7 +548,7 @@
       },
       {
           "BossName": "pmcBot",
-          "BossChance": 100,
+          "BossChance": 85,
           "BossZone": "BotZoneBasement",
           "BossPlayer": false,
           "BossDifficult": "normal",
@@ -564,7 +564,7 @@
       },
       {
           "BossName": "pmcBot",
-          "BossChance": 30,
+          "BossChance": 45,
           "BossZone": "BotZoneFloor2",
           "BossPlayer": false,
           "BossDifficult": "normal",
@@ -580,7 +580,7 @@
       },
       {
           "BossName": "pmcBot",
-          "BossChance": 35,
+          "BossChance": 45,
           "BossZone": "BotZoneFloor2",
           "BossPlayer": false,
           "BossDifficult": "normal",
