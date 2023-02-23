@@ -1279,22 +1279,6 @@
             "TriggerName": "",
             "Delay": 0,
             "RandomTimeSpawn": false
-        },
-        {
-            "BossName": "marksman",
-            "BossChance": 90,
-            "BossZone": "ZoneHighRocks",
-            "BossPlayer": false,
-            "BossDifficult": "normal",
-            "BossEscortType": "marksman",
-            "BossEscortDifficult": "normal",
-            "BossEscortAmount": "0",
-            "Time": 2180,
-            "Supports": null,
-            "TriggerId": "",
-            "TriggerName": "",
-            "Delay": 0,
-            "RandomTimeSpawn": false
         }
     ],
     "bossSpawns": [

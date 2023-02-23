@@ -3,7 +3,8 @@
 
 # Usage
 
-PreyToLive's BetterSpawnsPlus is *REQUIRED* - so please go download and install that first!
+PreyToLive's BetterSpawnsPlus is *REQUIRED* - so please go download and install that first!  
+https://hub.sp-tarkov.com/files/file/1002-betterspawnsplus/
 
 Once installed, all custom spawn files go in this directory (from the mod folder):
 `db/locations/<MAP_NAME>/botSpawn.json`
@@ -76,17 +77,3 @@ Spawn a SCAV with:
 - in zone `ZoneCrossRoad`
 
 With the above YOU TOO can write your own custom spawns to experiment with.
-
-# Map Zones
-
-Credit to the SPT Hub!
-
-![Customs](zones/customsOverlay.png?raw=true)
-![Woods](zones/woodsOverlay.png?raw=true)
-![Streets](zones/streetsOverlay.png?raw=true)
-![Reserve](zones/reserveOverlay.png?raw=true)
-![Labs](zones/labsOverlay.png?raw=true)
-![Shoreline](zones/shorelineOverlay.png?raw=true)
-![Lighthouse](zones/lighthouseOverlay.png?raw=true)
-![Factory](zones/factoryOverlay?raw=true)
-![Interchange](zones/interchangeOverlay.png?raw=true)
