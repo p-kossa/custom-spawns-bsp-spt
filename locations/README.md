@@ -1,21 +1,31 @@
 # Nooky's Custom Spawns for BetterSpawnsPlus
 ![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square)
 
-# Usage
-
-PreyToLive's BetterSpawnsPlus is *REQUIRED* - so please go download and install that first!
-
-Once installed, all custom spawn files go in this directory (from the mod folder):
-`db/locations/<MAP_NAME>/botSpawn.json`
-
-Just copy and paste and that's it!
-
-# Spawn Changes
+# Changes
 ## All maps
-- minor increase to all bot spawns
 - more PMC spawns within the first ~20 mins, more SCAVs later in raid
 - more bot spawns in POIs (i.e. Customs Dorms, Shoreline Resort, etc.)
 - more PMC spawns near actual PMC spawn points from live
+
+## Customs
+- high chance of PMC groups at Dorms early in raid
+- more bot spawns at Dorms early in raid
+
+## Shoreline
+- more PMC activity at Resort early in raid
+- more bots in general at and near Resort early-mid raid
+- more late SCAVs near edges of map
+
+## Labs
+- add Raider group spawns early in raid
+- PMC group spawns early in raid
+
+## Reserve
+- more PMC activity at Barracks early in raid
+
+## Woods
+- more SCAVs scattered near extracts toward end of raid
+  - SCAVs will be spawn later on at "UN ROADBLOCK"; more PMCs early instead
 
 ## How Does This Work?
 
@@ -73,8 +83,5 @@ Spawn a SCAV with:
 - at 70 seconds into the raid
 - in the Crossraods zone `ZoneCrossRoad`
 
-With the above YOU TOO can write your own custom spawns to experiment with.
-
 ## Map Zones
 
-Credit to the SPT Hub!
