@@ -10,6 +10,8 @@ Once installed, all custom spawn files go in this directory (from the mod folder
 
 Just copy and paste and that's it!
 
+**Note:** `spawnChangesOnlyPreset.json` is OPTIONAL - it's my personal config file for BSP, it uses all defaults except for slightly longer raid times tuned for my custom spawns.
+
 # Spawn Changes
 ## All maps
 - minor increase to all bot spawns
@@ -22,7 +24,7 @@ Just copy and paste and that's it!
 `BossEscortAmount`
 This key is specifically for bot groups. We can use `BossChance` to define the % chance that the given bot has "followers".
 
-Let's use an example:
+Let's look at an example for **Customs**:
 ```json
 {
   "BossName": "sptUsec",
@@ -45,7 +47,7 @@ Spawn a USEC PMC with:
 - an 80% chance of having "followers"
 - 100% of having 2 "followers" (so, PMC trio in this case)
 - at 120 seconds into the raid
-- in the Dorms zone `ZoneDormitory`
+- in the zone `ZoneDormitory`
 
 
 Let's look at a different example:
@@ -71,10 +73,20 @@ Spawn a SCAV with:
 - an 80% chance of having "followers"
 - an 80% chance of having 0 "followers", a 20% chance of having 1 "follower"
 - at 70 seconds into the raid
-- in the Crossraods zone `ZoneCrossRoad`
+- in zone `ZoneCrossRoad`
 
 With the above YOU TOO can write your own custom spawns to experiment with.
 
-## Map Zones
+# Map Zones
 
 Credit to the SPT Hub!
+
+![Customs](zones/customsOverlay.png?raw=true)
+![Woods](zones/woodsOverlay.png?raw=true)
+![Streets](zones/streetsOverlay.png?raw=true)
+![Reserve](zones/reserveOverlay.png?raw=true)
+![Labs](zones/labsOverlay.png?raw=true)
+![Shoreline](zones/shorelineOverlay.png?raw=true)
+![Lighthouse](zones/lighthouseOverlay.png?raw=true)
+![Factory](zones/factoryOverlay?raw=true)
+![Interchange](zones/interchangeOverlay.png?raw=true)
