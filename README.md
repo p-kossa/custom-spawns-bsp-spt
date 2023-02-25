@@ -1,5 +1,5 @@
 # Nooky's Custom Spawns for BetterSpawnsPlus
-![Version: 1.1.0](https://img.shields.io/badge/Version-1.1.0-informational?style=flat-square)
+![Version: 1.2.0](https://img.shields.io/badge/Version-1.2.0-informational?style=flat-square)
 
 # Usage
 
