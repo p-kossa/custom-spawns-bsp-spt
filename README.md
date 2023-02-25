@@ -1,5 +1,5 @@
 # Nooky's Custom Spawns for BetterSpawnsPlus
-![Version: 1.2.0](https://img.shields.io/badge/Version-1.2.0-informational?style=flat-square)
+![Version: 1.2.1](https://img.shields.io/badge/Version-1.2.1-informational?style=flat-square)
 
 # Usage
 
@@ -11,14 +11,8 @@ Once installed, all custom spawn files go in this directory (from the mod folder
 
 Just copy and paste and that's it!
 
-**Note:** `spawnChangesOnlyPreset.json` is OPTIONAL - it's my personal config file for BSP, it uses all defaults except for slightly longer raid times tuned for my custom spawns.
-
 # Spawn Changes
-## All maps
-- minor increase to all bot spawns
-- more PMC spawns within the first ~20 mins, more SCAVs later in raid
-- more bot spawns in POIs (i.e. Customs Dorms, Shoreline Resort, etc.)
-- more PMC spawns near actual PMC spawn points from live
+All of my spawn configurations are designed with 60 min. raid timers max (other than Factory and Labs which are 45 min. each). Compared to default BSP, my spawns are more PMC heavy, especially in the first half of the raid. **You will see more bot activity earlier in your raids** - especially PMCs.
 
 ## How Does This Work?
 
@@ -76,4 +70,7 @@ Spawn a SCAV with:
 - at 70 seconds into the raid
 - in zone `ZoneCrossRoad`
 
-With the above YOU TOO can write your own custom spawns to experiment with.
+
+## Can I create my own?
+
+Yes! That's bascically what I've done here - thanks to PreyToLive, the spawn configurations are fairly straightforward and easy to understand. Creating spawns is simply adding an additional json object into your `botSpawn.json` files. Feel free to experiment!
