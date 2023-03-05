@@ -946,9 +946,31 @@
           "BossDifficult": "normal",
           "BossEscortType": "pmcBot",
           "BossEscortDifficult": "normal",
-          "BossEscortAmount": "2,2,2,2,3",
+          "BossEscortAmount": "0",
           "Time": -1,
-          "Supports": null,
+          "Supports": [
+            {
+              "BossEscortAmount": 2,
+              "BossEsocrtDifficult": [
+                "normal"
+              ],
+              "BossEscortType": "pmcBot"
+            },
+            {
+              "BossEscortAmount": 2,
+              "BossEsocrtDifficult": [
+                "normal"
+              ],
+              "BossEscortType": "pmcBot"
+            },
+            {
+              "BossEscortAmount": 2,
+              "BossEsocrtDifficult": [
+                "normal"
+              ],
+              "BossEscortType": "pmcBot"
+            }
+          ],
           "TriggerId": "",
           "TriggerName": "",
           "Delay": 0,
