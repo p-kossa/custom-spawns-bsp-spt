@@ -940,6 +940,22 @@
       },
       {
           "BossName": "pmcBot",
+          "BossChance": 100,
+          "BossZone": "ZoneSubCommand",
+          "BossPlayer": false,
+          "BossDifficult": "normal",
+          "BossEscortType": "pmcBot",
+          "BossEscortDifficult": "normal",
+          "BossEscortAmount": "2,2,2,2,3",
+          "Time": -1,
+          "Supports": null,
+          "TriggerId": "",
+          "TriggerName": "",
+          "Delay": 0,
+          "RandomTimeSpawn": false
+      },
+      {
+          "BossName": "pmcBot",
           "BossChance": 65,
           "BossZone": "ZoneSubCommand",
           "BossPlayer": false,
